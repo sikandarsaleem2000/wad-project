@@ -1,0 +1,9 @@
+<?php 
+    session_start();
+    unset($_SESSION["customer"]);
+    //session_unset($_SESSION["customer"]);
+    //session_destroy($_SESSION["customer"]);
+    //destroy($_SESSION["customer"]);
+    header('location:login.php');
+    //exit();
+?>

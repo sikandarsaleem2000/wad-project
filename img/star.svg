@@ -1,0 +1,19 @@
+<?xml version="1.0"?><svg width="793.3333333333333" height="778.6666666666666" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+ <defs>
+  <linearGradient id="linearGradient1545">
+   <stop stop-color="#ffffff" offset="0" id="stop1546"/>
+   <stop stop-color="#ffffff" stop-opacity="0" offset="1" id="stop1547"/>
+  </linearGradient>
+  <radialGradient xlink:href="#linearGradient1545" spreadMethod="reflect" r="0.755331" id="radialGradient1544" fy="0.203125" fx="0.364238" cy="0.203125" cx="0.364238"/>
+ </defs>
+ <g>
+  <title>Layer 1</title>
+  <g id="g1630">
+   <path fill="#ffa100" fill-opacity="0.75" fill-rule="evenodd" stroke="#000000" stroke-width="3.229779" stroke-miterlimit="4" id="path914" d="m548.178284,299.474243l-85.962616,83.190033l20.139893,130.138336l-111.427429,-57.675629l-110.047119,60.604401l17.09668,-130.630768l-88.15274,-84.461334l121.993774,0.171112l55.565704,-117.172379l58.299622,115.666611l122.494232,0.169617z"/>
+   <path fill="#ffd800" fill-opacity="0.75" fill-rule="evenodd" stroke-width="0.81053553pt" id="path1538" d="m516.590942,313.419067l-70.808197,64.35611l16.589417,103.794739l-91.783875,-46.000488l-90.646881,48.336365l14.082733,-104.187408l-72.612305,-65.370087l100.487457,0.136444l45.769989,-95.447342l48.022003,94.246445l100.899658,0.135223z"/>
+   <path fill="#ffe500" fill-opacity="0.75" fill-rule="evenodd" stroke-width="0.81053553pt" id="path1539" d="m484.929901,321.342255l-55.618408,50.956085l13.03064,82.182861l-72.094269,-36.422424l-71.201172,38.271912l11.061646,-82.493805l-57.0354,-51.758881l78.930786,0.108063l35.951355,-75.573563l37.720245,74.622635l79.254578,0.107117z"/>
+   <path fill="url(#radialGradient1544)" fill-rule="evenodd" stroke-width="0.81053553pt" id="path1548" d="m367.951508,246.604523l-35.944031,75.585999l-78.9384,-0.111694l57.325821,47.978333l63.20108,12.262634l55.710114,-10.028992l35.167664,-49.430206l-58.794617,-1.630554l-37.727631,-74.625519z"/>
+   <path fill="url(#radialGradient1544)" fill-rule="evenodd" stroke-width="0.81053553pt" id="path1540" d="m464.470032,322.857819l-35.158539,49.440521l-55.706329,10.0224l-63.218231,-12.272705l-57.313995,-47.970032l78.930786,0.108063l35.951355,-75.573563l37.720245,74.622635l58.794708,1.622681z"/>
+  </g>
+ </g>
+</svg>
