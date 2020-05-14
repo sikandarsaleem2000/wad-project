@@ -13,13 +13,6 @@
 			include_once "includes/links.php";	
 			include_once "includes/header.php"; 	
 		?>
-		
-
-
-
-
-
-
 
  <!--
 		<button type="button" class="btn btn-primary" data-toggle="modal" data-target="#myModal">
@@ -173,7 +166,7 @@
 				
 				<div class="row mt-5 bg-light">
 					<div class="col-lg-3 p-2">
-						<img src="img/macbook.png" width="100%">
+						<img src="img/macbook.jpg" width="100%" height="220">
 						<center><br>
 							<h5 style="color:#7971ea">Laptops</b></h5>
 							<p class="text-grey">Finding perfect products</p>
@@ -182,7 +175,7 @@
 					</div>
 					
 					<div class="col-lg-3 p-2">
-						<img src="img/iphone.jpg" width="100%">
+						<img src="img/iphone.jpg" width="100%"  height="200">
 						<center><br>
 							<h5 style="color:#7971ea">Mobiles</b></h5>
 							<p class="text-grey">Finding perfect products</p>
@@ -191,20 +184,20 @@
 					</div>
 					
 					<div class="col-lg-3 p-2">
-						<img src="img/books.jpeg" width="100%">
+						<img src="img/electronics.jpg" width="100%" height="200">
 						<center><br>
-							<h5 style="color:#7971ea">Books</b></h5>
+							<h5 style="color:#7971ea">Electronics</b></h5>
 							<p class="text-grey">Finding perfect products</p>
-							<p style="color:#7971ea">Staring from PKR 1000/-</p>
+							<p style="color:#7971ea">Staring from PKR 1,000/-</p>
 						</center>
 					</div>
 					
 					<div class="col-lg-3 p-2">
-						<img src="img/garments.jpg" width="100%">
-						<center><br>
-							<h5 style="color:#7971ea" class="mt-4">Accessories</b></h5>
+						<img src="img/coat.jpg" width="100%" height="200">
+						<center>
+							<h5 style="color:#7971ea" class="mt-4">Fabrics</b></h5>
 							<p class="text-grey">Finding perfect products</p>
-							<p style="color:#7971ea">Staring from PKR 500/-</p>
+							<p style="color:#7971ea">Staring from PKR 5,000/-</p>
 						</center>
 					</div>
 					
